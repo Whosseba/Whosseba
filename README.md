@@ -1,3 +1,4 @@
+<img width="1270" height="846" alt="image" src="https://github.com/user-attachments/assets/002b6b87-e978-48b4-8bf8-2795b24a6d19" />
 
 # Ey!! Me llamo Sebastian Barriga 
 
