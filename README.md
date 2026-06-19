@@ -1,4 +1,5 @@
 <img width="6000" height="4000" alt="david-pupaza-Q9-QEy1_jYI-unsplash" src="https://github.com/user-attachments/assets/41ae52c9-f211-4c5b-9743-3e271c13ca09" />
+
 # Ey!! Me llamo Sebastian Barriga 
 
 
@@ -15,7 +16,6 @@ Tengo conocimientos en distintos lenguajes de Programación:
 Agregando que SQL no es un lenguaje de Programación pero tengo experiencia y conocimientos de SQL como : 
 - PostGreSQL
 - MySQL
-
 Mi conocimiento sobre la nube me ha hecho no ser una persona que se "case" con una computacion de nube , mas bien me adapto a lo que quiera el cliente o la empresa.
 # AWS 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/23af89ee-749b-4eb2-be0e-96eacd070d7e" />
