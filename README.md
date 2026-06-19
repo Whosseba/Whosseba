@@ -1,5 +1,4 @@
-<img width="1270" height="846" alt="image" src="https://github.com/user-attachments/assets/002b6b87-e978-48b4-8bf8-2795b24a6d19" />
-
+<img width="6000" height="4000" alt="david-pupaza-Q9-QEy1_jYI-unsplash" src="https://github.com/user-attachments/assets/41ae52c9-f211-4c5b-9743-3e271c13ca09" />
 # Ey!! Me llamo Sebastian Barriga 
 
 
@@ -24,6 +23,8 @@ Mi conocimiento sobre la nube me ha hecho no ser una persona que se "case" con u
 # Oracle 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ff6033f1-4a9e-49d3-9b7c-2da7e91c0061" />
 
+Conocimiento en Power Bi 
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/e14f24a2-e61d-4da7-ab9f-9ec4e612e5af" />
 
 
 
